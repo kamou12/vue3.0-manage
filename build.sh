@@ -1,2 +1,2 @@
-npm install
-npm run build
+cnpm install
+cnpm run build
