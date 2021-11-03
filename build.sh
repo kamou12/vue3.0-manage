@@ -1,2 +1,2 @@
 yarn
-yarn build
+yarn build.rollupOptions.external
